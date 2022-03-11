@@ -1,0 +1,31 @@
+big-Oh 표기법
+다항식에서 최고 차수 항만을 취한 뒤, 그 항의 계수를 빼기
+2n^2 + n + 1 > O(n^2)
+n이 아닌 숫자는 전부 O(1) > 반복문과 관계 없을시
+
+O(1) 상수시간
+O(logN) 로그(대수)시간
+O(N) 선형 시간
+O(NlogN) 로그선형시간
+O(N^2) 제곱시간
+O(N^3) 세제곱시간
+O(2^N) 지수시간
+
+자바 데이터 타입
+추상 데이터 타입 ADT
+int char boolean float double long short byte
+class interface array
+
+회사에서 인사의 중요성
+자료구조 설명
+
+속담 Garbage In !, Garbage Out !
+쓰레기가 들어가면 쓰레기가 나온다
+콩 심은데 콩 나고 팥 심은데 팥 난다
+
+재귀함수 설명 및 재귀함수 코드 테스트
+스택 설명 
+유튜브 재귀함수 https://www.youtube.com/watch?v=ygK0YON10sQ
+
+수열 설명 및 쓰이는 곳
+재귀함수와 반복문 코드 비교
